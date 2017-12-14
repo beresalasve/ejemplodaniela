@@ -1,0 +1,13 @@
+.row  img{
+    width: 114%;
+}
+.row h2{
+    font-size: 1rem;
+}
+body{
+    background: gray;
+} 
+
+#t img{
+    width: 132px;
+}
